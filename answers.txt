@@ -1,0 +1,28 @@
+question 1:
+https://github.com/zhangyi921/cmput404_lab1
+
+question 2:
+2.21.0
+
+question 3:
+2.21.0 This is same as the system's one is because I just installed the newest one on system
+
+question4: 
+Virtual environment python is python 3 and the not virtual 
+
+question5:
+301, put -iL after curl then we can get 200 status code
+
+question6:
+301, with -i it's still 301, with -iL is 418, curl http://www.google.com/teapot returns the website code.
+
+question7:
+below the command line arguments, we have extra code: 
+<H3>Form Contents:</H3>
+<DL>
+<DT>X: <i>&lt;type 'instance'&gt;</i>
+<DD>MiniFieldStorage('X', 'Y')
+</DL>
+
+question8:
+https://github.com/zhangyi921/cmput404_lab1/blob/master/lab1.py
