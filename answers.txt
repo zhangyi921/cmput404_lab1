@@ -17,12 +17,14 @@ question6:
 301, with -i it's still 301, with -iL is 418, curl http://www.google.com/teapot returns the website code.
 
 question7:
-below the command line arguments, we have extra code: 
+Below the command line arguments, we have extra code: 
 <H3>Form Contents:</H3>
 <DL>
 <DT>X: <i>&lt;type 'instance'&gt;</i>
 <DD>MiniFieldStorage('X', 'Y')
 </DL>
+
+That method is for posting, send parameters to server
 
 question8:
 https://github.com/zhangyi921/cmput404_lab1/blob/master/lab1.py
